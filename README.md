@@ -96,7 +96,7 @@ An ensemble learning algorithm that combines multiple decision trees to improve 
 
 **Sartaj Khan**
 
-GitHub: [sartajkhan22048-sketch](https://github.com/sartajkhan22048-sketch)
+
 
 ## &#x20;License
 
